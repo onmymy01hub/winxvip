@@ -1,0 +1,25 @@
+@keyframes btnjum {
+
+    0% {
+        transform: translateY(-10px);
+    }
+    50% {
+        transform: translateY(10px);
+    }
+    100% {
+        transform: translateX(0px);
+    }
+}
+
+.btn {
+    animation: bounce 3s infinite;
+}
+
+
+
+nnn {
+background-attachment: fixed ; 
+height: 100%;   
+
+
+}
